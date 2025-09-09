@@ -4,3 +4,10 @@ body {
 h1{
    color: purple
    }
+div {
+  background-color: lightgrey;
+  width: 300;
+  border: 15 solid orange;
+  padding: 50;
+  margin: 20;
+}
