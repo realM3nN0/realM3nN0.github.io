@@ -4,6 +4,10 @@ body {
 h1{
    color: purple
    }
+ul{
+   background-color: purple
+   color(srgb blue blue blue)
+}
 div {
   background-color: lightgrey;
   width: 300;
