@@ -5,8 +5,10 @@ h1{
    color: purple
    }
 li{
+   border-style: solid;
    background-color: purple
    color(srgb blue blue blue)
+
 }
 div {
   background-color: lightgrey;
