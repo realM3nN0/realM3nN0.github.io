@@ -1,13 +1,11 @@
-body {
+ul{
     border-style: solid; 
    background-color: lightseagreen
 }
 
    
    
-p.one {
-   border-style: solid
-   border red}
+
 
 div {
   background-color: lightgrey;
