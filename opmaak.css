@@ -5,12 +5,10 @@ body {
 h1{
    color: purple
    }
-li{
-   border-style: solid;
-   background-color: purple
-   color(srgb blue blue blue)
+p.one {
+   border-style: solid
+   border red}
 
-}
 div {
   background-color: lightgrey;
   width: 300;
