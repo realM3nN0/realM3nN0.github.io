@@ -1,6 +1,6 @@
 ul{
     border-style: solid; 
-   background-color: white
+   background-color: black
   
 }
 ul {
@@ -8,4 +8,5 @@ ul {
    margin: 10px;
    padding: 0;
     color: purple
+    
 }
