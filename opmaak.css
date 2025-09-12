@@ -4,7 +4,7 @@ ul {
   margin-left: 0px;
   margin-right: 0px;
   overflow: hidden;
-  background-color: black;
+  background-color: #FFA07A;
 }
 
 .menu ul li {
@@ -21,7 +21,7 @@ ul {
 
 .menu ul li a:hover {
   background-color: #FFFFFF;
-  color: #FFA07A;
+  color: black;
 }
 
 body {
