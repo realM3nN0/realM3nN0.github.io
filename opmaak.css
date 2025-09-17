@@ -28,20 +28,3 @@ body {
   background-color: #E0FFFF ;
 }
 
-.binairstelselmenu ul li {
-  float: left;
-}
-
-.binairstelselmenu ul li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-.binairstelselmenus ul li a:hover {
-  background-color: #FFFFFF;
-  color: black;
-}
-
