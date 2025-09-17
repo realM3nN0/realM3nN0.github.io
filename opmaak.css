@@ -27,3 +27,24 @@
 body {
   background-color: #E0FFFF ;
 }
+
+.menu2 ul li {
+  float: left;
+}
+
+.menu2 ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.menu2 ul li a:hover {
+  background-color: #FFFFFF;
+  color: black;
+}
+
+body {
+  background-color: #E0FFFF ;
+}
