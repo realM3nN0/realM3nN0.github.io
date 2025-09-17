@@ -1,10 +1,10 @@
- .menu ul{
+.menu ul {
   list-style-type: none;
   margin-top: 0px;
   margin-left: 0px;
   margin-right: 0px;
   overflow: hidden;
-  background-color: #778899;
+  background-color: #333333;
 }
 
 .menu ul li {
