@@ -28,5 +28,9 @@ body {
   background-color: #E0FFFF ;
 }
 
-
+.Informatie h3{
+ border: 2px solid red;
+  border-radius: 8px;
+  padding: 5px;
+}
 
