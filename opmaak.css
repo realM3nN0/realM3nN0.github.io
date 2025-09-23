@@ -1,3 +1,4 @@
+/* Hoe het menu eruit ziet qua */
 .menu ul {
   list-style-type: none;
   margin-top: 0px;
@@ -24,10 +25,12 @@
   color: black;
 }
 
+/* Achtergrond kleur van pagina zelf */
 body {
   background-color: #93c2c2 ;
 }
 
+/* Border om stukje tekst (alle pagina's) */
 .Informatie h3{
  border: 2px solid black;
   border-radius: 8px;
