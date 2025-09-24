@@ -44,5 +44,5 @@ width: 40%
 }
 
 .binarybonanza iframe{
-  overflow: none
+  overflow: scroll
 }
