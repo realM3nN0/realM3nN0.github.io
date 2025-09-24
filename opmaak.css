@@ -41,5 +41,8 @@ body {
 
 .binarybonanza iframe{
 width: 40%
+}
 
+.binarybonanza iframe{
+  overflow: none
 }
