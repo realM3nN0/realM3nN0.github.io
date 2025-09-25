@@ -41,6 +41,7 @@ body {
 
 .binarybonanza iframe{
 width: 40%
+padding: 0px
 }
 
 .Binairstelsel iframe{
@@ -49,4 +50,6 @@ float: right
 
 .Binairstelsel iframe{
 width: 40%
+padding: 0px
+
 }
