@@ -55,3 +55,8 @@ padding-right: 30%;
 width: 30%;
 height: 60%;
 }
+
+.FOTO img{
+float: right;
+padding-right: 30%;  
+}
