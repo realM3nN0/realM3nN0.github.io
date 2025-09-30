@@ -28,7 +28,7 @@
 /* Achtergrond kleur van pagina zelf */
 body {
   background-color: #93c2c2 ;
-}
+} 
 
 /* Border om stukje tekst (alle pagina's) */
 .Informatie h3{
@@ -65,4 +65,11 @@ height: 20%;
 .foTO img{
 width: 40%;
 height: 10%;
+}
+
+.footer {
+border: 2px #93c2c2 ;
+  border-radius: 8px;
+  padding: 5px;
+background-color: #93c2c2;
 }
