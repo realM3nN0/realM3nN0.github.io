@@ -1,4 +1,4 @@
-/* Hoe het menu eruit ziet qua */
+
 .menu ul {
   list-style-type: none;
   margin-top: 0px;
@@ -20,6 +20,7 @@
   text-decoration: none;
 }
 
+/* kleur van blokje menu als je eroverheen hovert*/
 .menu ul li a:hover {
   background-color:#8c98a0;
   color: black;
@@ -37,7 +38,6 @@ body {
   padding: 5px;
   width: 67%;
 }
-
 
 .Binairstelsel {
 width: 40%;
