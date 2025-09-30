@@ -68,7 +68,7 @@ height: 10%;
 }
 
 .footer {
-  position: fixed; /*Vaste plaats voor positie van object*/
+  position: fixed;
    left: 0;
    bottom: 0;
    width: 100%;
