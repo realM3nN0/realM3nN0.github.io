@@ -68,8 +68,11 @@ height: 10%;
 }
 
 .footer {
-border: 2px #93c2c2 ;
-  border-radius: 8px;
-  padding: 5px;
-background-color: #93c2c2;
+  position: fixed; /*Vaste plaats voor positie van object*/
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #93c2c2;
+   color: white;
+   text-align: center;
 }
